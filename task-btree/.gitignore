@@ -1,0 +1,66 @@
+# ---------------------------------------------------------------------------
+# MODERNDBS
+# ---------------------------------------------------------------------------
+
+# TPCH Light Segments
+/0
+/1
+/10
+/11
+/20
+/21
+/30
+/31
+
+# Cmake Build folders
+/release
+/Release
+/RelWithDebInfo
+
+/debug
+/Debug
+
+/build
+/Build
+/.build
+
+# CCLS cache
+/.ccls-cache
+
+# Compile commands
+/compile_commands.json
+
+# VSCode
+/.vscode
+
+# KDevelop
+/*.kdev4
+
+# CLion
+/.idea
+/cmake-build-debug
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
